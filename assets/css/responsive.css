@@ -1,0 +1,145 @@
+
+
+
+@media(min-width:320px) and (max-width:375px) {
+    .banner-four-content{padding-left: 0px;}
+	.banner-four-area h1{font-size: 38px;}
+	.banner-four-content ul li{width:100%;}
+	.technologies-section .banner-four-img{padding-left:0px;}
+	.technologies-section .banner-four-img iframe{width:100%;}
+	.join-your-colleagues h2{font-size: 20px;  margin-bottom: 30px; line-height: 1.9;}
+	.explore-topics-section .py-section h2{font-size: 30px;}
+	.content-topis ul li{font-size: 16px;}
+	.testimonial-carousel .testimonial-text{width:100%;}
+	.testimonial-carousel .carousel-caption img{width:100%;}
+	.testimonial-carousel .card small{font-size: 18px;}
+	.testimonial-carousel .card .carousel-item {height: 550px;}
+	.testimonial-text h3{font-size: 25px;}
+	.py-section img{width:100%;}
+	.content-topis img{width:100%;}
+	.connect-with-people .content-topis{margin-bottom: 20px;}
+	.connect-with-people select.form-select.btn-md{padding: 15px 20px 15px 12px;}
+	.collapse.navbar-collapse ul.navbar-nav.ml-auto a{display:inline-block; padding: 7px 0px; font-size: 16px; color: rgba(0,0,0,.5);}
+	.collapse.navbar-collapse ul.navbar-nav.ml-auto a i {font-size: 16px;}
+     button:focus{outline:0px;}
+	.footer-area .footer-logo{margin-bottom: 10px;}
+	.footer-area .footer-widget.pl-5{padding-left:0px !important;}
+   }
+   
+@media(min-width:481px) and (max-width:575px) {
+	.banner-four-content{padding-left: 0px;}
+	.banner-four-area h1{font-size: 38px;}
+	.banner-four-content ul li{width:100%;}
+	.technologies-section .banner-four-img{padding-left:0px;}
+	.technologies-section .banner-four-img iframe{width:100%;}
+	.join-your-colleagues h2{font-size: 20px;  margin-bottom: 30px; line-height: 1.9;}
+	.explore-topics-section .py-section h2{font-size: 30px;}
+	.content-topis ul li{font-size: 16px;}
+	.testimonial-carousel .testimonial-text{width:100%;}
+	.testimonial-carousel .carousel-caption img{width:100%;}
+	.testimonial-carousel .card small{font-size: 18px;}
+	.testimonial-carousel .card .carousel-item {height: 700px;}
+	.testimonial-text h3{font-size: 25px;}
+	.py-section img{width:100%;}
+	.content-topis img{width:100%;}
+	.connect-with-people .content-topis{margin-bottom: 20px;}
+	.connect-with-people select.form-select.btn-md{padding: 15px 20px 15px 12px;}
+	.collapse.navbar-collapse ul.navbar-nav.ml-auto a{display:inline-block; padding: 7px 0px; font-size: 16px; color: rgba(0,0,0,.5);}
+	.collapse.navbar-collapse ul.navbar-nav.ml-auto a i {font-size: 16px;}
+     button:focus{outline:0px;}
+	.footer-area .footer-logo{margin-bottom: 10px;}
+	.footer-area .footer-widget.pl-5{padding-left:0px !important;}
+  }
+  
+
+@media(min-width:576px) and (max-width:767px) {
+	.banner-four-content{padding-left: 0px;}
+	.banner-four-area h1{font-size: 38px;}
+	.banner-four-content ul li{width:100%;}
+	.technologies-section .banner-four-img{padding-left:0px;}
+	.technologies-section .banner-four-img iframe{width:100%;}
+	.join-your-colleagues h2{font-size: 20px;  margin-bottom: 30px; line-height: 1.9;}
+	.explore-topics-section .py-section h2{font-size: 30px;}
+	.content-topis ul li{font-size: 16px;}
+	.testimonial-carousel .testimonial-text{width:100%; padding-top: 0px;}
+	.testimonial-carousel .carousel-caption img{width:100%;}
+	.testimonial-carousel .card small{font-size: 18px;}
+	.testimonial-carousel .card .carousel-item {height: 400px;}
+	.testimonial-text h3{font-size: 25px;}
+	.py-section img{width:100%;}
+	.content-topis img{width:100%;}
+	.connect-with-people .content-topis{margin-bottom: 20px;}
+	.connect-with-people select.form-select.btn-md{padding: 15px 20px 15px 12px;}
+	.collapse.navbar-collapse ul.navbar-nav.ml-auto a{display:inline-block; padding: 7px 0px; font-size: 16px; color: rgba(0,0,0,.5);}
+	.collapse.navbar-collapse ul.navbar-nav.ml-auto a i {font-size: 16px;}
+     button:focus{outline:0px;}
+	.footer-area .footer-logo{margin-bottom: 10px;}
+	.footer-area .footer-widget.pl-5{padding-left:0px !important;}
+  }
+
+
+@media (max-width:480px) {
+	 .banner-four-content{padding-left: 0px;}
+	.banner-four-area h1{font-size: 38px;}
+	.banner-four-content ul li{width:100%;}
+	.technologies-section .banner-four-img{padding-left:0px;}
+	.technologies-section .banner-four-img iframe{width:100%;}
+	.join-your-colleagues h2{font-size: 20px;  margin-bottom: 30px; line-height: 1.9;}
+	.explore-topics-section .py-section h2{font-size: 30px;}
+	.content-topis ul li{font-size: 16px;}
+	.testimonial-carousel .testimonial-text{width:100%;}
+	.testimonial-carousel .carousel-caption img{width:100%;}
+	.testimonial-carousel .card small{font-size: 18px;}
+	.testimonial-carousel .card .carousel-item {height: 625px;}
+	.testimonial-text h3{font-size: 25px;}
+	.py-section img{width:100%;}
+	.content-topis img{width:100%;}
+	.connect-with-people .content-topis{margin-bottom: 20px;}
+	.connect-with-people select.form-select.btn-md{padding: 15px 20px 15px 12px;}
+	.collapse.navbar-collapse ul.navbar-nav.ml-auto a{display:inline-block; padding: 7px 0px; font-size: 16px; color: rgba(0,0,0,.5);}
+	.collapse.navbar-collapse ul.navbar-nav.ml-auto a i {font-size: 16px;}
+     button:focus{outline:0px;}
+	.footer-area .footer-logo{margin-bottom: 10px;}
+	.footer-area .footer-widget.pl-5{padding-left:0px !important;}
+}
+
+@media (min-width:768px) and (max-width:991px) {
+	.banner-four-content{padding-left: 0px;}
+	.banner-four-area h1{font-size: 38px;}
+	.banner-four-content ul li{width:100%;}
+	.technologies-section .banner-four-img{padding-left:0px;}
+	.technologies-section .banner-four-img iframe{width:100%;}
+	.join-your-colleagues h2{font-size: 20px;  margin-bottom: 30px; line-height: 1.9;}
+	.explore-topics-section .py-section h2{font-size: 30px;}
+	.content-topis ul li{font-size: 16px;}
+	.testimonial-carousel .testimonial-text{width:100%; padding-top: 0px;}
+	.testimonial-carousel .carousel-caption img{width:100%;}
+	.testimonial-carousel .card small{font-size: 18px;}
+	.testimonial-carousel .card .carousel-item {height: 430px;}
+	.py-section img{width:100%;}
+	.content-topis img{width:100%;}
+	.connect-with-people .content-topis{margin-bottom: 20px;}
+	.connect-with-people select.form-select.btn-md{padding: 15px 20px 15px 12px;}
+	.collapse.navbar-collapse ul.navbar-nav.ml-auto a{display:inline-block; padding: 7px 0px; font-size: 16px; color: rgba(0,0,0,.5);}
+	.collapse.navbar-collapse ul.navbar-nav.ml-auto a i {font-size: 16px;}
+     button:focus{outline:0px;}
+	.footer-area .footer-logo{margin-bottom: 10px;}
+	.footer-area .footer-widget.pl-5{padding-left:0px !important;}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
